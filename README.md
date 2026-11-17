@@ -67,4 +67,4 @@ The seeded users and their sample books are in `database/seeders/DatabaseSeeder.
 
 ## Postman
 
-Import `webdev-week12-collection.json`. Set the collection variables `base_url` (`http://127.0.0.1:8000/api`), `token`, and `readonly_token` after logging in. No real token or password is stored in the collection.
+Import `webdev-week12-collection.json`. Set the collection variables `base_url` (`http://127.0.0.1:8000/api`), `token`, and `readonly_token` after logging in. No real token is stored in the collection. It only contains test passwords for the seeded sample users.
